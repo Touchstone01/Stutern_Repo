@@ -1,4 +1,11 @@
-<h1> This is a free training which I stared on the 6th of February hoping to finish by February 27, 2023.<h1>
+<h3> This is a free training which I started on the <i> 6th of February</i> hoping to finish by <i>February 27, 2023</i>.</h3>
+<i> Email got me this offer. </i>
+
+<ul>
+What the training encompasses:
+<li> HTML Basics </li>
+<li> CSS Basics </li>
+<li> Building a landing page
+</ul>
 
 
-           Email got me this offer.
