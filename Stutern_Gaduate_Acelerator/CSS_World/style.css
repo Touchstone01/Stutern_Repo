@@ -1,0 +1,16 @@
+p {
+    border: solid;
+    border-color: lightsalmon;
+    border-width: 15px;
+    border-radius: 15px;
+    padding-left: 19px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: 145px;
+    margin-left: 250px;
+}
+.Parent {
+    display: flex;
+    flex-direction: row;
+}
